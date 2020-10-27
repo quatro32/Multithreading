@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\bin\Debug\netcoreapp2.0\Multithreading.deps.json
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\bin\Debug\netcoreapp2.0\Multithreading.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\bin\Debug\netcoreapp2.0\Multithreading.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\bin\Debug\netcoreapp2.0\Multithreading.dll
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\bin\Debug\netcoreapp2.0\Multithreading.pdb
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.dll
+C:\Users\Administrator\Source\Repos\Multithreading\Multithreading\obj\Debug\netcoreapp2.0\Multithreading.pdb
